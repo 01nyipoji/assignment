@@ -1,0 +1,41 @@
+body{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    justify-content: space-between;
+}
+
+header{
+    background-color: orange;
+    color: yellow;
+    text-align: left;
+}
+
+form{
+    background-color: rgb(6, 6, 39);
+    color: yellow;
+
+}
+
+div{
+    background-color: orange;
+    align-items: center;
+    text-align: end;
+    padding: 7px;
+}
+
+.Submit{
+    background-color: greenyellow;
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 5px;
+} 
+
+.Cancel{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 5px;
+}
